@@ -1,0 +1,64 @@
+﻿
+
+/*=====================================
+  FOOTER STYLES 
+    ===================================*/
+
+
+#footer-sec {
+
+   background-color:#404040; 
+   color:#fff;
+   padding:20px;
+   margin-top: 10px;
+}
+#footer-sec i {
+    margin-right:10px;
+}
+#footer-sec span {
+    font-size:20px;
+    color:#ff6a00;
+}
+#footer-sec small {
+    display:table-cell;
+    color: #C5C5C5;
+}
+#footer-sec p {
+   border-right: 1px solid #3D3577;
+   padding-right:10px;
+
+}
+#footer-sec .media-heading > a {
+    color:#fff;
+    font-size:14px;
+}
+#blog-footer-div {
+     border-right: 1px solid #3D3577;
+      padding-right:10px;
+}
+#footser-end {
+    text-align:right;
+  background-color:#21165F; 
+   color:#fff;
+   padding:10px;
+}
+
+.blanco{
+  color: #fff;
+}
+
+       /*=====================================
+   Media Queries
+    ===================================*/
+
+       @media all and (max-width: 786px) and (min-width: 100px) {
+  .carousel-caption{
+   display:none!important;
+  }
+}
+       
+       @media all and (max-width: 845px) and (min-width: 100px) {
+  .div-social-top{
+   display:none!important;
+  }
+}

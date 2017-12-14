@@ -93,22 +93,22 @@ ul.social-network li a {
 }
 
 .info a {
-  color: #d0d0d0;
-  font-size: 12px; 
+  color: #fff;
+  font-size: 15px; 
 }
 
 .info a:hover {
-  color: #ED502E;
+  color: #F3F781;
 }
 
 .info p {
-  color: #d0d0d0;
-  font-size: 12px;
+  color: #fff;
+  font-size: 20px;
   margin: 0;
 }
 
 .navbar-default{
-	background-color: #f8f8f8;
+	background-color: #8a9cc6;
 	margin-top: 90px; 
 }
 

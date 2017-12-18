@@ -40,5 +40,3 @@ $miresultado = '<h4>No se envío el correo.</h4>';
 }
 
 echo $miresultado;
-
-?>
